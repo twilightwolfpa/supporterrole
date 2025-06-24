@@ -1,0 +1,10 @@
+{
+    "author": ["Your Discord Name#Tag"],
+    "name": "SupporterRole",
+    "short": "Assigns/removes a role based on other roles.",
+    "description": "A cog that automatically assigns or removes 'Role D' from users based on whether they possess 'Role A', 'Role B', or 'Role C'.",
+    "tags": ["roles", "automation", "utility"],
+    "min_bot_version": "3.5.0",
+    "max_bot_version": "3.6.0",
+    "install_msg": "Thanks for installing SupporterRole! Remember to set up your roles with `[p]supporterset`."
+}
