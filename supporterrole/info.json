@@ -1,6 +1,6 @@
 {
     "author": ["Griffon551"],
-    "name": "SupporterRole",
+    "name": "supporterrole",
     "short": "Assigns/removes a role based on other roles.",
     "description": "A cog that automatically assigns or removes 'Role D' from users based on whether they possess 'Role A', 'Role B', or 'Role C'.",
     "tags": ["roles", "automation", "utility"],
